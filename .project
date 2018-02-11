@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PyDevTest</name>
+	<comment></comment>
+	<projects>
+		<project>gson</project>
+		<project>NewProject20170713</project>
+		<project>NinjaManager</project>
+		<project>NinjaManager20170623</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+</projectDescription>
